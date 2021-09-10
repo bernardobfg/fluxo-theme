@@ -1,8 +1,8 @@
 {
     "name": "fluxo-theme",
     "displayName": "Fluxo-Theme",
-    "description": "Its a new theme for fluxo",
-    "version": "0.0.1",
+    "description": "Tema para os membros da Fluxo Consultoria",
+    "version": "0.0.2",
     "publisher": "Bernardo",
     "engines": {
         "vscode": "^1.60.0"
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "assets/logo.jfif",
     "contributes": {
         "themes": [
             {
