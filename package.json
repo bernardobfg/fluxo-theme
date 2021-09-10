@@ -10,7 +10,6 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://media-public.canva.com/tFWKw/MABzMftFWKw/2/t.png",
     "contributes": {
         "themes": [
             {
@@ -26,6 +25,6 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/bernardobfg/fluxo-theme"
     }
 }
