@@ -2,7 +2,7 @@
     "name": "fluxo-theme",
     "displayName": "Fluxo-Theme",
     "description": "Tema para os membros da Fluxo Consultoria",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Bernardo",
     "engines": {
         "vscode": "^1.60.0"
