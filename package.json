@@ -1,0 +1,31 @@
+{
+    "name": "fluxo-theme",
+    "displayName": "Fluxo-Theme",
+    "description": "Its a new theme for fluxo",
+    "version": "0.0.1",
+    "publisher": "Bernardo",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "https://media-public.canva.com/tFWKw/MABzMftFWKw/2/t.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fluxo-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fluxo-theme-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner":{
+        "color": "#F58332",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
